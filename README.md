@@ -1,7 +1,7 @@
 # Cybersecurity-Fundamentals
 Cybersecurity topics broken down into bite-sized study topics.
 
-- CIA Triad: The Core Principles of Information Security
+- <a href="https://github.com/Dynara/Cybersecurity-Fundamentals/blob/main/CIA%20Triad.html">CIA Triad: The Core Principles of Information Security</a>
 - Common Cyber Threats and Attacks
 - Network Security
 - Identity and Access Management (IAM)
