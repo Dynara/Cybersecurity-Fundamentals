@@ -1,4 +1,4 @@
-# **Common Cyber Threats and Attacks#**
+# **Common Cyber Threats and Attacks**
 
 Understanding the enemy is a critical part of cybersecurity. This topic covers the most common types of attacks.
 
@@ -54,5 +54,6 @@ Stealing a user's session ID to take over their session and access their account
 
 **<ins>ARP Spoofing:</ins>**
 A technique used to redirect network traffic to an attacker's machine.
+
 
 
